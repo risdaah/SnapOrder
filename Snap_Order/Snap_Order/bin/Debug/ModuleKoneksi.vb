@@ -1,3 +1,0 @@
-﻿Module ModuleKoneksi
-
-End Module
